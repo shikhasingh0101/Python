@@ -69,3 +69,121 @@ users. Implement methods for adding recipes, searching by ingredients.
 
 20. Build a simulation of an ATM system with classes for accounts, transactions, and
 users. Implement methods for withdrawing cash, checking balances, and handling
+
+*Python_lab_manual:
+
+1.1  a program to compute Simple Interest.
+1.2  program to perform arithmetic, Relational operators.
+1.3 program to find whether a given no is even & odd.
+1.4  program to print first n natural number & their sum.
+1.5  program to determine whether the character entered is a Vowel or not.
+1.6 program to find whether given number is an Armstrong Number.
+1.7  program using for loop to calculate factorial of a No.
+1.8 program to print the following pattern
+i)
+*
+* *
+* * *
+* * * *
+* * * * *
+
+ii)
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+iii)
+
+*
+* * *
+* * * * *
+* * * * * * *
+* * * * * * * * *
+2.1  program that define the list of defines the list of define countries that
+are in BRICS.
+2.2  program to traverse a list in reverse order.
+1.By using Reverse method.
+2.By using slicing
+2.3  program that scans the email address and forms a tuple of username
+and domain.
+2.4  program to create a list of tuples from given list having number and
+add its cube in tuple.
+i/p: c= [2,3,4,5,6,7,8,9]
+2.5 program to compare two dictionaries in Python?
+(By using == operator)
+2.6  program that creates dictionary of cube of odd numbers in the range.
+
+2.7  program for various list slicing operation.
+a= [10,20,30,40,50,60,70,80,90,100]
+i. Print Complete list
+ii. Print 4th element of list
+iii. Print list from0th to 4th index.
+iv. Print list -7th to 3rd element
+v. Appending an element to list.
+vi. Sorting the element of list.
+vii. Popping an element.
+viii. Removing Specified element.
+ix. Entering an element at specified index.
+x. Counting the occurrence of a specified element.
+xi. Extending list.
+xii. Reversing the list.
+
+3.1 program to extend a list in python by using given approach.
+i. By using + operator.
+ii. By using Append ()
+iii. By using extend ()
+
+3.2 program to add two matrices.
+
+3.3  Python function that takes a list and returns a new list with distinct
+elements from the first list.
+3.4  program to Check whether a number is perfect or not.
+3.5 Python function that accepts a string and counts the number of upper-
+and lower-case letters.
+
+string_test= 'Today is My Best Day'
+
+4.1 program to Create Employee Class & add methods to get employee
+details & print.
+
+4.2  program to take input as name, email & age from user using
+combination of keywords argument and positional arguments (*args
+and**kwargs) using function,
+
+4.3  program to admit the students in the different
+Departments(pgdm/btech)and count the students. (Class, Object and Constructor).
+4.4  program that has a class store which keeps the record of code and
+price of product display the menu of all product and prompt to enter the quantity of
+each item required and finally generate the bill and display the total amount.
+4.5  program to take input from user for addition of two numbers using
+(single inheritance).
+4.6  program to create two base classes LU and ITM and one derived class.
+(Multiple inheritance).
+4.7  program to implement Multilevel inheritance,
+Grandfather→Father-→Child to show property inheritance from grandfather to
+child.
+4.8  program Design the Library catalogue system using inheritance take
+base class (library item) and derived class (Book, DVD & Journal) Each derived
+class should have unique attribute and methods and system should support Check
+in and check out the system. (Using Inheritance and Method overriding)
+
+5.1 program to create my_module for addition of two numbers and import
+it in main script.
+
+5.2 program to create the Bank Module to perform the operations such as
+Check the Balance, withdraw and deposit the money in bank account and import
+the module in main file.
+
+5.3 program to create a package with name cars and add different modules
+(such as BMW, AUDI, NISSAN) having classes and functionality and import
+them in main file cars.
+
+ 6.1  program to implement Multithreading. Printing “Hello” with one
+thread & printing “Hi” with another thread.
+
+ 7.1 program to use ‘whether API’ and print temperature of any city, also
+print the sunrise and sunset times for the same humidity of that area.
+
+7.2  program to use the ‘API’ of crypto currency.
