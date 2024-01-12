@@ -187,3 +187,12 @@ thread & printing “Hi” with another thread.
 print the sunrise and sunset times for the same humidity of that area.
 
 7.2  program to use the ‘API’ of crypto currency.
+
+Python_videos:
+q.1 
+1. Python program to create a person class. Include attributes like name,
+country and date of birth. Implement a method to determine the person's age.
+
+q.7
+7. Implement a class inheritance as following: class shoe attributes like colour brand.
+
