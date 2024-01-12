@@ -23,7 +23,7 @@ bus instance will become the final amount = total fare + 10% of the total fare.
 6.  class attribute “color” with a default value white. i.e., Every Vehicle
 should be white.
 
-7. Implement a class inheritance as following:
+7. Implement a class inheritance as following: class shoe attributes like colour brand.
 
 8.  Python class called “Car” with attributes like make, model, and year.
 Then, create an object of the “Car” class and print its details.
